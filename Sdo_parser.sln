@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdo_parser", "Sdo_parser\Sdo_parser.csproj", "{E07443BA-54C3-46B2-9635-7940B451D5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07443BA-54C3-46B2-9635-7940B451D5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07443BA-54C3-46B2-9635-7940B451D5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07443BA-54C3-46B2-9635-7940B451D5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07443BA-54C3-46B2-9635-7940B451D5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE313F0-9B4E-4C2D-962C-75690E3270AD}
+	EndGlobalSection
+EndGlobal
